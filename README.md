@@ -14,4 +14,4 @@ This research project evaluates the effectiveness of virtual reality (VR) traini
 - Integration of VR in hybrid models (with live drills) is recommended
 
 ## Paper
-[Download the PDF](./VR_Training_Efficacy_Paper.pdf)
+[Download the PDF](./The_Efficacy_of_Virtual_Reality_Training_in_the_Military.pdf)
